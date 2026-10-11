@@ -67,19 +67,19 @@ Reports are versioned and published to clients only when you approve them.
 | **Junior pentesters** | A guided workflow to record findings and evidence |
 | **Developers** | A clean, focused list of verified issues to fix |
 | **Clients** | A secure portal for verified findings and final reports |
-
+<!--
 ## Repositories
 
 | Repository | Description |
 |------------|-------------|
 | [**pen-fortress**]([MAIN_REPO_LINK]) | The core platform |
-<!-- | [**docs**]([DOCS_LINK]) | Installation, administration and user guides | -->
+ | [**docs**]([DOCS_LINK]) | Installation, administration and user guides | -->
 
 ## Project status
 
 PenFortress is **under active development**. Follow the main repository to
 track progress, and star it if you'd like to see it succeed.
-
+<!--
 ## Contributing
 
 Contributions, ideas and security research are welcome.
@@ -87,7 +87,7 @@ Please read our [Contributing Guide]([LINK]) and
 [Security Policy]([LINK]) before getting started.
 
 To report a vulnerability in PenFortress itself, please **do not** open a
-public issue. Follow the process in our Security Policy.
+public issue. Follow the process in our Security Policy. -->
 
 ---
 
