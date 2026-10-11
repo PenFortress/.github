@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="PenFortress.png" width="110" alt="PenFortress logo">
+  <img src="/profile/PenFortress.png" width="110" alt="PenFortress logo">
 </p>
 
 <h1 align="center">PenFortress</h1>
