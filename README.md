@@ -10,10 +10,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/license-AGPL-3.0-blue" alt="License">
-  <img src="https://img.shields.io/badge/status-in%20development-orange" alt="Status">
-  <img src="https://img.shields.io/badge/deployment-Docker-2496ED" alt="Docker">
-  <img src="https://img.shields.io/badge/self--hosted-100%25-success" alt="Self-hosted">
+<img src="https://img.shields.io/badge/license-AGPL--3.0-blue" alt="License">
+<img src="https://img.shields.io/badge/status-in%20development-orange" alt="Status">
+<img src="https://img.shields.io/badge/Docker-ready-2496ED?logo=docker&logoColor=white" alt="Docker">
+<img src="https://img.shields.io/badge/Self_Hosted-yes-success" alt="Self-hosted">
 </p>
 
 ---
